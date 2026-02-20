@@ -42,7 +42,7 @@ Add screenshots to `assets/`:
 ## Quickstart (Docker)
 ### 1) Clone + configure env
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/asundar0128/benefits-eligibility-rag-engine
 cd tiered-membership-rag-recommendation-engine
 cp .env.example .env
 ```
