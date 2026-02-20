@@ -45,13 +45,16 @@ Add screenshots to `assets/`:
 git clone <your_repo_url>
 cd tiered-membership-rag-recommendation-engine
 cp .env.example .env
-
+```
 2) Start services
 ```bash
 docker compose up --build -d
+```
 3) Ingest the benefits KB
 ```bash
 docker compose exec api python scripts/ingest_benefits.py
+```
 4) Open Swagger UI
 ```bash
 http://localhost:8000/docs
+```
