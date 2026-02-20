@@ -1,0 +1,12 @@
+[
+  {
+    "user_id": "u_001",
+    "tier": "base",
+    "criteria": ["weight loss", "beginner guidance", "basic group classes", "monthly check-ins"]
+  },
+  {
+    "user_id": "u_002",
+    "tier": "silver",
+    "criteria": ["hypertrophy training", "priority class booking", "nutrition help", "body composition tracking"]
+  }
+]
